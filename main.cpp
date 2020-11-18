@@ -17,5 +17,6 @@ class student{
 };
 int main(){
 	student s;
+    s.getInput();
 	return 0;
 }
