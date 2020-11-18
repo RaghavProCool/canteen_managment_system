@@ -16,6 +16,6 @@ class student{
 		}
 };
 int main(){
-	
+	student s;
 	return 0;
 }
