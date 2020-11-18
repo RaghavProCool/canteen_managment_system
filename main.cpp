@@ -16,7 +16,7 @@ class student{
 		}
 };
 int main(){
-	student s;//this is for master branch
+	student s;//this is for master branch and this is new one
     s.getInput();
 	return 0;
 }
