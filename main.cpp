@@ -16,7 +16,7 @@ class student{
 		}
 };
 int main(){
-	student s;//now i changed it to somthing else
+	student s;
     s.getInput();
 	return 0;
 }
