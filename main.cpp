@@ -16,7 +16,7 @@ class student{
 		}
 };
 int main(){
-	student s;
+	student s;//this is version-2 
     s.getInput();
 	return 0;
 }
